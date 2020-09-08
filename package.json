@@ -21,7 +21,7 @@
   "generator-core-version": "~2",
   "dependencies": {
     "async": "0.2.x",
-    "moment": "~2.4.0"
+    "moment": "~2.27.0"
   },
   "devDependencies": {
     "mocha": "1.0.x",
